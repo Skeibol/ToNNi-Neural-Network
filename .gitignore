@@ -1,0 +1,9 @@
+Model/
+__pycache__/
+Data/
+TestImg/
+venv/
+.vscode/
+networkenv/
+ignore/
+cabinenv/
